@@ -12,7 +12,7 @@ let FolaAge = 10
 let AareAge = 100
 let temp = -2
 let price = 15
-let myAge = 18
+let Age = 18
 
 // for floats
 let Math = 97.2
@@ -31,10 +31,10 @@ let a = -0
 document.write(Math);
 document.write(Name);
 document.write(temp);
-document.write(Food)
-document.write(Fruit)
-document.write(Age)
-document.write(Biology)
+document.write(Food);
+document.write(Fruits);
+document.write(Age);
+document.write(Biology);
 document.write(Boolean(pi));
 document.write(Boolean(x));
 document.write(Boolean(y));
